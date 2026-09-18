@@ -1,2 +1,1 @@
-# fixit-local-community-app
-A mobile-first community reporting app that helps residents, report, track, and support local community issues.
+https://github.com/lungile-mgwadi/fixit-local-community-app/tree/main
